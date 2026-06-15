@@ -4,37 +4,6 @@ This repository contains my Python programming assignments completed during coll
 
 ---
 
-# 📚 Topics Covered
-
-- String Manipulation
-- List Comprehensions
-- Functions
-- Arrays
-- Stack Operations
-- Queue Operations
-- Searching Techniques
-- Nested Dictionaries
-- Applications of Stack and Queue
-
----
-
-# 📂 Assignment Files
-
-| Assignment No. | Topic |
-|---|---|
-| 1 | String Manipulation |
-| 2 | Working with Lists & List Comprehensions |
-| 3 | Writing Functions |
-| 4 | Menu Driven Array |
-| 5 | Menu Driven Queue |
-| 6 | Menu Driven Stack |
-| 7 | Nested Dictionary |
-| 8 | Searching Techniques |
-| 9 | Applications of Stack |
-| 10 | Applications of Queue |
-
----
-
 # 🚀 Skills Practiced
 
 - Python Basics
